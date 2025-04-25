@@ -74,6 +74,7 @@
 
     <div class="container">
         <h1>Menu Principal</h1>
+        <h2>"A vingança nunca é plena, mata a alma e a envenena.";</h2><br/>
         <div class="link-container">
             <a href="conProfessor.php">Consultar Professor</a>
             <a href="conAluno.php">Consultar Aluno</a>
